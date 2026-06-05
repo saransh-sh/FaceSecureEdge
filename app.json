@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "FaceAuthApp",
-    "slug": "FaceAuthApp",
+    "name": "FaceSecureEdge",
+    "slug": "FaceSecureEdge",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -9,7 +9,7 @@
     "ios": {
       "supportsTablet": true,
       "infoPlist": {
-        "NSCameraUsageDescription": "Allow FaceAuthApp to use your camera for authentication."
+        "NSCameraUsageDescription": "Allow FaceSecureEdge to use your camera for authentication."
       }
     },
     "android": {
@@ -23,7 +23,7 @@
       "permissions": [
         "android.permission.CAMERA"
       ],
-      "package": "com.anonymous.FaceAuthApp"
+      "package": "com.anonymous.FaceSecureEdge"
     },
     "web": {
       "favicon": "./assets/favicon.png"
