@@ -1,4 +1,4 @@
-package com.anonymous.FaceAuthApp
+package com.anonymous.FaceSecureEdge
 
 import android.os.Build
 import android.os.Bundle

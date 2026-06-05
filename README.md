@@ -13,7 +13,7 @@ This project is a React Native (Expo) prototype for offline facial authenticatio
 
 1. **Navigate to the project directory:**
    ```bash
-   cd FaceAuthApp
+   cd FaceSecureEdge
    ```
 
 2. **Install Dependencies:**

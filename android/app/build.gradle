@@ -87,9 +87,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace 'com.anonymous.FaceAuthApp'
+    namespace 'com.anonymous.FaceSecureEdge'
  defaultConfig {
-    applicationId 'com.anonymous.FaceAuthApp'
+    applicationId 'com.anonymous.FaceSecureEdge'
     minSdkVersion 26
     targetSdkVersion rootProject.ext.targetSdkVersion
     versionCode 1
